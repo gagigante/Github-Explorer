@@ -41,7 +41,7 @@ This project was developed with the following techs:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Router Dom](https://www.npmjs.com/package/react-router-dom)
-- [Styled Components](hhttps://styled-components.com/)
+- [Styled Components](https://styled-components.com/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
