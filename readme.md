@@ -54,7 +54,7 @@ This project is a simple and fashion way to explore Github repositories. \o/
 ### Client:
 ### Just access the project fold:
 
-To install dependences
+To install dependencies
 ```
   $ yarn
 
